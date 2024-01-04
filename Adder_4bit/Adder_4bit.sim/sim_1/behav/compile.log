@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nvluc/Desktop/Electronic and Telecomunication/KY 5/Digital Design/Adder_4bit/Adder_4bit.srcs/sources_1/new/code_Adder_4bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HA
+INFO: [VRFC 10-311] analyzing module FA
+INFO: [VRFC 10-311] analyzing module code_Adder_4bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nvluc/Desktop/Electronic and Telecomunication/KY 5/Digital Design/Adder_4bit/Adder_4bit.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,7 @@
+Running: xsim.dir/code_BinaryToGray_behav/xsimk.exe -simmode gui -wdb code_BinaryToGray_behav.wdb -simrunnum 0 -socket 50354
+Design successfully loaded
+Design Loading Memory Usage: 22988 KB (Peak: 22988 KB)
+Design Loading CPU Usage: 31 ms
+Simulation completed
+Simulation Memory Usage: 23440 KB (Peak: 23440 KB)
+Simulation CPU Usage: 62 ms
