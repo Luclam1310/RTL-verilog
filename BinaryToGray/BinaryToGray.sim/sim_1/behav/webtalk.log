@@ -2,11 +2,11 @@
 # Webtalk v2015.2 (64-bit)
 # SW Build 1266856 on Fri Jun 26 16:35:25 MDT 2015
 # IP Build 1264090 on Wed Jun 24 14:22:01 MDT 2015
-# Start of session at: Thu Jan 04 16:47:27 2024
-# Process ID: 2312
-# Log file: C:/Users/nvluc/Desktop/Electronic and Telecomunication/KY 5/Digital Design/BinaryToGray/BinaryToGray.sim/sim_1/behav/webtalk.log
-# Journal file: C:/Users/nvluc/Desktop/Electronic and Telecomunication/KY 5/Digital Design/BinaryToGray/BinaryToGray.sim/sim_1/behav\webtalk.jou
+# Start of session at: Fri Jan 05 22:36:41 2024
+# Process ID: 4492
+# Log file: D:/Electronic and Telecomunication/KY 5/Digital Design/BinaryToGray/BinaryToGray.sim/sim_1/behav/webtalk.log
+# Journal file: D:/Electronic and Telecomunication/KY 5/Digital Design/BinaryToGray/BinaryToGray.sim/sim_1/behav\webtalk.jou
 #-----------------------------------------------------------
-source C:/Users/nvluc/Desktop/Electronic -notrace
-couldn't read file "C:/Users/nvluc/Desktop/Electronic": permission denied
-INFO: [Common 17-206] Exiting Webtalk at Thu Jan 04 16:47:27 2024...
+source D:/Electronic -notrace
+couldn't read file "D:/Electronic": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Fri Jan 05 22:36:41 2024...
